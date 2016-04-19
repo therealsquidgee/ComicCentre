@@ -1,6 +1,7 @@
 <?php include("header.php"); ?>
-<div id="owlCarousel" class="center">
-	<div class="item center"><img src="http://placehold.it/750x300" id="placeholder" alt="placeholder"/></div>
+<div id="indexCarousel" class="center">
+	<div class="item"><img src="http://placehold.it/750x300" id="placeholder" alt="placeholder"/></div>
+	<div class="item"><img src="http://placehold.it/750x300" id="placeholder" alt="placeholder"/></div>
 </div>
 <div class="row center">
 	<div class="col-md-4 bg-lighter">

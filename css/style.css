@@ -21,6 +21,11 @@ body{
     width: 90%;
     margin: auto;
     margin-bottom: 50px;
+    text-align: center;
+}
+.warning{
+    color: #FF8E00;
+    display: none;
 }
 img{
     display: block;
@@ -33,6 +38,37 @@ img{
 .panel-title{
     display:inline;
     margin-right:3px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: black;
+}
+input[type="text"], .btn-default{
+    background-color:#b0a18e;
+}
+.owl-nav{
+    text-align: center;
+}
+.owl-next, .owl-prev{
+    display: inline;
+}
+.owl-next{
+    margin-left: 5px;
+}
+.comment2{
+    margin-left: 5%;
+}
+.comment3{
+    margin-left: 10%;
+}
+.comment4{
+    margin-left: 15%;
+}
+.comment5{
+    margin-left: 20%;
 }
 
 /* overriding bootstrap CSS to get custom navbar.

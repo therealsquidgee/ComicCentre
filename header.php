@@ -1,10 +1,13 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+		<link rel="stylesheet" href="css/OwlCarousel/owl.carousel.css" type="text/css"/>
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 		
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+		<script src="js/OwlCarousel/owl.carousel.js"></script>
+		<script src="js/main.js"></script>
 	</head>
 	<body>
 		<nav id="navbar" class="navbar navbar-default navbar-fixed-top">
@@ -22,7 +25,6 @@
 					<ul class="nav navbar-nav">
 						<li><a href="dashboard.php">Dashboard</a></li>
 						<li><a href="discussion.php">Discussion</a></li>
-						<li><a href="help.php">Help</a></li>
 					</ul>
 					<ul class="nav navbar-nav navbar-right navbar-collapse-right">
 						<li><a href="mycomics.php">My Comics</a></li>

@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
 <div class="panel panel-default center">
   <div class="panel-heading">
-    <h3 class="panel-title"><a href="discussion/comic1">Comic #1</h3><p class="usertag">User #1</p>
+    <h3 class="panel-title"><a href="discussion.php">Comic #1</a></h3><p class="usertag"><a href="users/1">User #1</a></p>
   </div>
   <div class="panel-body">
     <img src="http://placehold.it/600x300" alt="placeholder"/>
@@ -11,7 +11,7 @@
 
 <div class="panel panel-default center">
   <div class="panel-heading">
-    <h3 class="panel-title">Comic #1</h3><p class="usertag">User #1</p>
+    <h3 class="panel-title"><a href="discussion.php">Comic #2</a></h3><p class="usertag"><a href="users/2">User #2</a></p>
   </div>
   <div class="panel-body">
     <img src="http://placehold.it/600x300" alt="placeholder"/>
@@ -21,7 +21,7 @@
 
 <div class="panel panel-default center">
   <div class="panel-heading">
-    <h3 class="panel-title">Comic #1</h3><p class="usertag">User #1</p>
+    <h3 class="panel-title"><a href="discussion.php">Comic #3</a></h3><p class="usertag"><a href="users/3">User #3</a></p>
   </div>
   <div class="panel-body">
     <img src="http://placehold.it/600x300" alt="placeholder"/>
