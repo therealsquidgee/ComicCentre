@@ -13,7 +13,7 @@
     </div>
   </div>
   
-  <div class="panel-footer">
+  <div class="panel-footer left">
     <div id="commentCarousel">
       <div class="item">
         <div class="well">
